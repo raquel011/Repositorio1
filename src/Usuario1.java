@@ -10,5 +10,7 @@
  */
 public class Usuario1 {
     private String Nombre;
+    private String Apellido;
+    private int edad;
     
 }
